@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Snake</string>
+    <string name="tvScore">Score: 0</string>
+    <string name="tvHighScore">High Score: 0</string>
+</resources>
