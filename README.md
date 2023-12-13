@@ -3,7 +3,7 @@
    <br>
    <br>
 </p>
-<h1>Chess</h1>
+<h1>Snake</h1>
 <b>This project is an Android snake game written in Java. It is a simple but complete implementation of the game, with all of the standard rules and features. </b>
 
 ## Implementation
