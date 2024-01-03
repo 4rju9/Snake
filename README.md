@@ -12,7 +12,7 @@ The game is implemented using the following technologies:
    * Java
    * XML
 
-<!-- ## Usage
+## Usage
 <b>Disclaimer :</b>
 * This app is not published on Playstore, you have to download this from
 * Official website
@@ -20,7 +20,7 @@ The game is implemented using the following technologies:
 (after that downloading follow the steps below)
 
 
-**Step 1** => Download the APK [Click To Download](https://index.4rju9.workers.dev/0:/timeTableApp/app-release.apk)
+**Step 1** => Download the APK [Click To Download](https://index.4rju9.workers.dev/0:/snakeApp/app-release.apk)
 
 **Step 2** => Go to download section of your browser / Or find the APK file in your phone's storage
 
@@ -37,4 +37,4 @@ The game is implemented using the following technologies:
 * Create an account or Login into your account if you already have one
 * Select your course and semester
 
-No more steps, all done ✅ -->
+No more steps, all done ✅
